@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I’m currently learning Python and I would appreciate suggestions how best to master the language.
 
 <!--
 **G-Evanz/G-Evanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
